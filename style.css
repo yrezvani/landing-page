@@ -167,6 +167,7 @@ li {
 .mid-body3 h6 {
     font-size: 24px;
     font-weight: bold;
+    margin-bottom: 5px;
 }
 
 .mid-body3 p {
@@ -174,8 +175,8 @@ li {
 }
 
 .mid-body3 button {
-    width: 100px;
-    height: 40px;
+    width: 160px;
+    height: 50px;
     padding: 10px 16px;
     background-color: #3882f6;
     border: solid white;
